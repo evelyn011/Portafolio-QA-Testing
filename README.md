@@ -17,26 +17,46 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 # My Linkedin profile https://www.linkedin.com/in/evelyn-d-/
 # Soft Skills
 # Tech Skills
-# Tools
-Jira, Trello - project management
-Confluence - storing informations and documents about project
-qTest - bug tracking
-Slack - communication within the team
-Chrome Devtools - for better testing and improving bug reports
-Google Drive - storing data
-Git - for better work in development team and controlling software versions
-GitHub - supporting Git and preparing my repositories
-Markdown - for better and easy formatting GitHub
-Xampp - practicing SQL
-Postman - API testing
-Pycharm - IDE for Python
-Selenium
-Robot framework
-Visual Studio Code - practicing HTML and CSS
-Zephyr
-Kibana
-TeamCity
-SSMS
+## 📌 Essential QA Tools  
+
+### 🔹 Project Management & Bug Tracking  
+- [Jira](https://www.atlassian.com/software/jira) - Agile task and bug tracking.  
+- [Trello](https://trello.com/) - Visual project management boards.  
+- [qTest](https://www.tricentis.com/products/qtest) - Test case management and execution.  
+- [Zephyr](https://www.smartbear.com/product/zephyr-scale/overview/) - Test management integrated with Jira.  
+- [TestRail](https://www.gurock.com/testrail/) - Comprehensive test case management.  
+- [Bugzilla](https://www.bugzilla.org/) - Open-source bug tracking tool.  
+
+### 🔹 Communication & Collaboration  
+- [Slack](https://slack.com/) - Team communication and notifications.  
+- [Google Drive](https://www.google.com/drive/) - File storage and test reports.  
+
+### 🔹 Version Control & Development  
+- [Git](https://git-scm.com/) - Version control for collaborative development.  
+- [GitHub](https://github.com/) - Repository hosting and CI/CD integration.  
+
+### 🔹 Software Testing  
+- [Postman](https://www.postman.com/) - API testing and automation.  
+- [Selenium](https://www.selenium.dev/) - Web automation testing framework.  
+- [Cypress](https://www.cypress.io/) - Modern UI test automation for web applications.  
+- [Katalon Studio](https://katalon.com/) - Automated testing platform.  
+- [Appium](https://appium.io/) - Mobile app automation testing.  
+
+### 🔹 Performance & Load Testing  
+- [JMeter](https://jmeter.apache.org/) - Load and stress testing for web applications.  
+
+### 🔹 Security & Accessibility Testing  
+- [OWASP ZAP](https://www.zaproxy.org/) - Web application security scanning.  
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Web performance and accessibility evaluation.  
+
+### 🔹 Development & Debugging Tools  
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Browser-based debugging tools.  
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor for development.  
+- [SSMS (SQL Server Management Studio)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - SQL database management tool.  
+
+### 🔹 DevOps & Testing Environments  
+- [Docker](https://www.docker.com/) - Containerized environments for testing.  
+- [Jenkins](https://www.jenkins.io/) - CI/CD automation and test execution.  
 # Courses and Certifications
 # Test Cases
 # Test Scenarios
