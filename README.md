@@ -16,6 +16,29 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 
 # My Linkedin profile https://www.linkedin.com/in/evelyn-d-/
 # Soft Skills
+### 🔹 Communication & Collaboration  
+- **Clear communication** → Ability to explain test results and defects effectively.  
+- **Team collaboration** → Working closely with developers, PMs, and stakeholders.  
+- **Active listening** → Understanding project requirements and feedback.  
+
+### 🔹 Analytical & Critical Thinking  
+- **Attention to detail** → Spotting small issues that could become big problems.  
+- **Problem-solving mindset** → Identifying root causes of defects efficiently.  
+
+### 🔹 Adaptability & Learning  
+- **Continuous learning** → Keeping up with new tools, frameworks, and methodologies.  
+- **Adaptability** → Adjusting to changes in requirements and development cycles.  
+- **Curiosity** → Asking "what if?" to find hidden defects.  
+
+### 🔹 Organization & Time Management  
+- **Prioritization skills** → Managing test cases and bug reports effectively.  
+- **Multitasking** → Handling multiple test scenarios across different environments.  
+
+### 🔹 Ownership & Proactiveness  
+- **Taking initiative** → Proactively identifying areas for improvement.  
+- **Accountability** → Owning test results and ensuring software quality.  
+- **User advocacy** → Thinking from the end-user perspective to enhance product usability.
+- 
 # Tech Skills
 ## 📌 Essential QA Tools  
 
@@ -58,6 +81,40 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 - [Docker](https://www.docker.com/) - Containerized environments for testing.  
 - [Jenkins](https://www.jenkins.io/) - CI/CD automation and test execution.  
 # Courses and Certifications
+### 🔹 Software Testing & QA  
+- [Postman API Fundamental Expert Certification](https://www.postman.com/) – Postman  
+- [Foundations of Software Testing](https://platzi.com/) – Platzi  
+- [Introduction to Test Automation](https://platzi.com/) – Platzi  
+- [Agile Implementation Training](https://www.atsqa.org/) – ATSQA  
+- [Making Agile Work](https://www.atsqa.org/) – ATSQA  
+- [API Testing Training](https://www.atsqa.org/) – ATSQA  
+- [Real Advantages to Automating ERP Testing](https://www.atsqa.org/) – ATSQA  
+
+### 🔹 Technology & IT  
+- Informatics – Juan Antonio Valdez Institute  
+- [Internet of Things](https://www.netacad.com/courses/intro-iot) – Cisco Virtual Academy  
+- [Cybersecurity](https://www.netacad.com/courses/intro-cybersecurity) – Cisco Virtual Academy  
+- [Functional Analyst](https://www.udemy.com/) – Udemy  
+
+### 🔹 Business & Management  
+- Successful Business Management – INFOTEP  
+- Human Capital Strategy – Philanthropy University  
+- Establishment of Effective Partnerships – Philanthropy University  
+- Social Impact Planning for Success – Philanthropy University  
+- Planning for Monitoring and Evaluation – Philanthropy University  
+
+### 🔹 Agile & Project Management  
+- Scrum Master – Nexus University  
+- [Scrum Fundamental Certified](https://www.scrumstudy.com/) – Scrum Study  
+
+### 🔹 Digital & Marketing  
+- [Digital Marketing](https://iabspain.es/formacion/) – IAB Spain  
+
+### 🔹 Languages & Communication  
+- Typing – Juan Antonio Valdez Institute  
+- English – APEC University  
+- English Immersion Program – MESCYT
+  
 # Test Cases
 # Test Scenarios
 # Test Cycles
