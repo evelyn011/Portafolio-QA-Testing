@@ -120,7 +120,4 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 
 # Test Scenarios
 [📁 Test Scenarios](https://drive.google.com/drive/folders/1LbM7taJB3IIZY1fAoa26skjsLDc4fmCR?usp=sharing)  
-# Test Cycles
-# Test Reports
-# Black Box Test
-# White Box Test
+
