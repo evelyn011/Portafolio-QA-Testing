@@ -116,7 +116,10 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 - English Immersion Program – MESCYT
   
 # Test Cases
+[📁 Casos de Prueba - Google Drive](https://drive.google.com/drive/folders/1KsyCz19775VTOKAqknq488JTpFITFrL8?usp=sharing)
+
 # Test Scenarios
+[📁 Test Scenarios](https://drive.google.com/drive/folders/1LbM7taJB3IIZY1fAoa26skjsLDc4fmCR?usp=sharing)  
 # Test Cycles
 # Test Reports
 # Black Box Test
