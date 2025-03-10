@@ -82,19 +82,19 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 - [Jenkins](https://www.jenkins.io/) - CI/CD automation and test execution.  
 # Courses and Certifications
 ### 🔹 Software Testing & QA  
-- [Postman API Fundamental Expert Certification](https://www.postman.com/) – Postman  
+- [Postman API Fundamental Expert Certification](https://badgr.com/public/assertions/teh5pexNQsqcc6zWAQoGsQ?identity__email=202002021@p.uapa.edu.do) – Postman  
 - [Foundations of Software Testing](https://drive.google.com/file/d/1-M4MYxL_jhY2PBQzX37gp8Ld-Hj6V7pR/view?usp=sharing) – Platzi  
 - [Introduction to Test Automation](https://platzi.com/) – Platzi  
-- [Agile Implementation Training](https://www.atsqa.org/) – ATSQA  
-- [Making Agile Work](https://www.atsqa.org/) – ATSQA  
-- [API Testing Training](https://www.atsqa.org/) – ATSQA  
-- [Real Advantages to Automating ERP Testing](https://www.atsqa.org/) – ATSQA  
+- [Agile Implementation Training](https://drive.google.com/file/d/1H254KWxxx9STH_JjzWEJEzlVrPFCGAKy/view?usp=sharing) – ATSQA  
+- [Making Agile Work](https://drive.google.com/file/d/1B62REl8hQ57Tda5ycXhTWKe5lv1QrRbP/view?usp=sharing) – ATSQA  
+- [API Testing Training](https://drive.google.com/file/d/1pFp_2KnEFL7FRWNym_bfXFqBPoHZxcxv/view?usp=sharing) – ATSQA  
+- [Real Advantages to Automating ERP Testing](https://drive.google.com/file/d/10VX_XrTW1qoXgCeyVHJH9m5et1S0zkYB/view?usp=sharing) – ATSQA  
 
 ### 🔹 Technology & IT  
 - Informatics – Juan Antonio Valdez Institute  
-- [Internet of Things](https://www.netacad.com/courses/intro-iot) – Cisco Virtual Academy  
-- [Cybersecurity](https://www.netacad.com/courses/intro-cybersecurity) – Cisco Virtual Academy  
-- [Functional Analyst](https://www.udemy.com/) – Udemy  
+- [Internet of Things] – Cisco Virtual Academy  
+- [Cybersecurity]) – Cisco Virtual Academy  
+- [Functional Analyst] – Udemy  
 
 ### 🔹 Business & Management  
 - Successful Business Management – INFOTEP  
