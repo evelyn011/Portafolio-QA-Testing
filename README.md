@@ -83,7 +83,7 @@ Although I’m new to the professional world of QA, I am highly motivated to lea
 # Courses and Certifications
 ### 🔹 Software Testing & QA  
 - [Postman API Fundamental Expert Certification](https://www.postman.com/) – Postman  
-- [Foundations of Software Testing](https://platzi.com/) – Platzi  
+- [Foundations of Software Testing](https://drive.google.com/file/d/1-M4MYxL_jhY2PBQzX37gp8Ld-Hj6V7pR/view?usp=sharing) – Platzi  
 - [Introduction to Test Automation](https://platzi.com/) – Platzi  
 - [Agile Implementation Training](https://www.atsqa.org/) – ATSQA  
 - [Making Agile Work](https://www.atsqa.org/) – ATSQA  
