@@ -1,11 +1,11 @@
 # Portafolio-QA-Testing
 
 # About Me 👋
-Hi, my name is Evelyn Altagracia de la Rosa Yan. I’m a Junior QA Tester who is passionate about software quality and testing. Since starting my career, I have been actively learning and developing my skills in manual and automated testing. I am excited about applying my knowledge in real-world projects and contributing to the development of high-quality software.
+Hi, my name is Evelyn de la Rosa. I am a QA Engineer and Software Engineer passionate about ensuring software quality and delivering reliable solutions. Since the beginning of my career, I have been developing my skills in both manual and automated testing, with practical experience designing and executing test strategies for web, mobile, and API applications. In my current role as a QA Analyst at MINERD, I work with Selenium, Postman, Jira, SQL, and GitLab to create and manage test cases, validate business logic, and integrate testing into CI/CD pipelines.
 
-I hold certifications in AT_SQA, Platzi’s Software Testing Fundamentals, and specialized courses in API Testing and ERP Automation from Udemy. These experiences have given me a strong foundation in testing principles, test case creation, and defect identification.
+I hold certifications from AT*SQA, Platzi’s Software Testing Fundamentals, and specialized training in API Testing and ERP Automation from Udemy. These credentials, combined with my professional projects, have given me a solid foundation in testing principles, automation frameworks, defect identification, and reporting.
 
-Currently, my main focus is on furthering my knowledge in test automation as I believe it plays a crucial role in the future of QA. I am eager to take on new challenges and continue expanding my skills to become a more efficient and effective tester. In this portfolio, I would like to showcase the practical skills I have gained through courses, hands-on projects, and self-study.
+Currently, my focus is on strengthening my expertise in test automation, as I believe it is essential for the future of QA. I am eager to take on new challenges, grow professionally, and apply my skills to deliver efficient, scalable, and high-quality testing solutions. This portfolio highlights the practical abilities I have developed through professional experience, courses, and continuous self-learning.
 
 # My Experience 🏢
 As a Junior QA Tester, I am at the beginning of my career but have already gained foundational experience in both manual and automated testing. I have worked on projects where I created and executed test cases, identified defects, and ensured software met quality standards.
