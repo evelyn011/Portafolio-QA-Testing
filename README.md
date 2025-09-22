@@ -1,18 +1,18 @@
 # Portafolio-QA-Testing
 
 # About Me 👋
-Hi, my name is Evelyn de la Rosa. I am a QA Engineer and Software Engineer passionate about ensuring software quality and delivering reliable solutions. Since the beginning of my career, I have been developing my skills in both manual and automated testing, with practical experience designing and executing test strategies for web, mobile, and API applications. In my current role as a QA Analyst at MINERD, I work with Selenium, Postman, Jira, SQL, and GitLab to create and manage test cases, validate business logic, and integrate testing into CI/CD pipelines.
+Hi, my name is Evelyn de la Rosa. I am a QA Engineer and Software Engineer passionate about ensuring software quality and delivering reliable solutions. I have hands-on experience in both manual and automated testing, with proven skills in designing and executing test strategies for web, mobile, and API applications. In my current role as a QA Analyst at MINERD, I work with Selenium, Postman, Jira, SQL, and GitLab to create and manage test cases, validate business logic, and integrate testing into CI/CD pipelines.
 
-I hold certifications from AT*SQA, Platzi’s Software Testing Fundamentals, and specialized training in API Testing and ERP Automation from Udemy. These credentials, combined with my professional projects, have given me a solid foundation in testing principles, automation frameworks, defect identification, and reporting.
+I hold certifications from AT*SQA, Platzi’s Software Testing Fundamentals, and specialized training in API Testing and ERP Automation from Udemy. These credentials, combined with my professional projects, have strengthened my foundation in testing principles, automation frameworks, defect identification, and technical reporting.
 
-Currently, my focus is on strengthening my expertise in test automation, as I believe it is essential for the future of QA. I am eager to take on new challenges, grow professionally, and apply my skills to deliver efficient, scalable, and high-quality testing solutions. This portfolio highlights the practical abilities I have developed through professional experience, courses, and continuous self-learning.
+Currently, I am focused on advancing my expertise in test automation, as I believe it is essential to the future of QA. I am motivated to take on new challenges, grow professionally, and contribute to building efficient, scalable, and high-quality testing solutions. This portfolio highlights the practical abilities I have developed through professional experience, certifications, and continuous self-learning.
 
 # My Experience 🏢
-As a Junior QA Tester, I am at the beginning of my career but have already gained foundational experience in both manual and automated testing. I have worked on projects where I created and executed test cases, identified defects, and ensured software met quality standards.
+As a QA Analyst, I have worked on projects that required the creation and execution of test cases, regression testing, API validation, and the identification and reporting of defects. My work involves close collaboration with developers and cross-functional teams to ensure that software not only meets business requirements but also achieves the highest quality standards.
 
-In addition, I have practical experience using tools like Jira for defect tracking and working in Agile environments to deliver high-quality software. I have also started exploring API testing and test automation, areas in which I am keen to continue growing.
+I bring practical experience with tools such as Selenium, Postman, and Jira, and I am comfortable working in Agile environments using Scrum and Kanban frameworks. Additionally, I have configured and optimized automation frameworks and contributed to integrating testing practices within CI/CD pipelines.
 
-Although I’m new to the professional world of QA, I am highly motivated to learn and develop as a software tester. I am excited to apply my skills and grow within a team, and I’m eager to contribute to the success of software projects by ensuring they meet the highest quality standards.
+What defines me as a QA professional is my commitment to detail, problem-solving mindset, and passion for continuous learning. I am eager to keep expanding my skills in automation and performance testing, and I look forward to contributing to impactful projects where software quality makes the difference.
 
 # My Linkedin profile https://www.linkedin.com/in/evelyn-d-/
 # Soft Skills
